@@ -1,4 +1,4 @@
-# MIS-Dashboard-Exc
+# MIS-Dashboard-Excel
 Here’s a sample GitHub repository description you can use when sharing your MIS Excel dashboard:
 
 MIS Excel Dashboard
